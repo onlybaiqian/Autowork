@@ -1,12 +1,12 @@
-# Autowork
+﻿# Autowork
 python3+selenium3自动化框架
 
 
 环境介绍：
-  python3.6.1 版本
-  selenium3.4.1 版本
-  chrome61版本
-  chromedriver.exe  2.32版本
+python3.6.1 版本
+selenium3.4.1 版本
+chrome61版本
+chromedriver.exe  2.32版本
 
 一.环境安装
 环境安装请自行百度
